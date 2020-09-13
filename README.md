@@ -3,12 +3,12 @@
 A starter project for Women Who Code Cincinnati Hacktoberfest project that serves
 as a database
 
-The available API endpoints and returned data can be viewed at 
+The available API endpoints and returned data can be viewed at  
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database 
 
 The structure of the returned json is described below 
 
-Full response: 
+Full response:  
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/db
 
 ```
@@ -19,7 +19,7 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/db
   women_who_code_cincinnati_information: ContactInformation
 }
 ```
-List of members: 
+List of members:  
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/members
 
 ```
@@ -40,7 +40,7 @@ Links {
   website : String
 }
 ```
-List of Quotes: 
+List of Quotes:  
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/quotes
 
 ```
@@ -50,7 +50,7 @@ Quote {
   author: String
 }
 ```
-List of Learning Resources: 
+List of Learning Resources:  
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/learning_resources
 
 ```
@@ -61,7 +61,7 @@ LearningResource: {
   link: String
 }
 ```
-Women Who Code Cincinnati Contact Information: 
+Women Who Code Cincinnati Contact Information:  
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/women_who_code_cincinnati_information
 
 ```
