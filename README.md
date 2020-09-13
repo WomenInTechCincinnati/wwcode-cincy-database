@@ -11,30 +11,30 @@ The structure of the returned json is described below
 Full response: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/db
 
-{
+```{
   members: List<Member>,
   quotes: List<Quote>,
   learning_resources: List<LearningResource>,
   women_who_code_cincinnati_information: ContactInformation
-}
+}```
 
 List of members: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/members
 
-Member {
+```Member {
   name: String
   image_url: String
   favorite_techs: List<String>,
   hobbies: List<String>,
   links: Links
-}
+}```
 
-Links {
+```Links {
   twitter : String,
   facebook : String,
   linkedIn : String,
   website : String
-}
+}```
 
 List of Quotes: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/quotes
