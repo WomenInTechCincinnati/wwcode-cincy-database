@@ -11,7 +11,8 @@ The structure of the returned json is described below
 Full response: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/db
 
-```{
+```
+{
   members: List<Member>,
   quotes: List<Quote>,
   learning_resources: List<LearningResource>,
@@ -21,7 +22,8 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/db
 List of members: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/members
 
-```Member {
+```
+Member {
   name: String
   image_url: String
   favorite_techs: List<String>,
@@ -30,7 +32,8 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/membe
 }
 ```
 where Links is defined as 
-```Links {
+```
+Links {
   twitter : String,
   facebook : String,
   linkedIn : String,
@@ -40,7 +43,8 @@ where Links is defined as
 List of Quotes: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/quotes
 
-```Quote {
+```
+Quote {
   submitted_by: String,
   quote: String,
   author: String
@@ -49,7 +53,8 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/quote
 List of Learning Resources: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/learning_resources
 
-```LearningResource: {
+```
+LearningResource: {
   submitted_by: String,
   title: String,
   short_description: String,
@@ -59,7 +64,8 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/learn
 Women Who Code Cincinnati Contact Information: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/women_who_code_cincinnati_information
 
-```ContactInformation {
+```
+ContactInformation {
   links: Links
   email: String 
 }
