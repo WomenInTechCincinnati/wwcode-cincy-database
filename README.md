@@ -16,8 +16,8 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/db
   quotes: List<Quote>,
   learning_resources: List<LearningResource>,
   women_who_code_cincinnati_information: ContactInformation
-}```
-
+}
+```
 List of members: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/members
 
@@ -27,38 +27,40 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/membe
   favorite_techs: List<String>,
   hobbies: List<String>,
   links: Links
-}```
-
+}
+```
+where Links is defined as 
 ```Links {
   twitter : String,
   facebook : String,
   linkedIn : String,
   website : String
-}```
-
+}
+```
 List of Quotes: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/quotes
 
-Quote {
+```Quote {
   submitted_by: String,
   quote: String,
   author: String
 }
-
+```
 List of Learning Resources: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/learning_resources
 
-LearningResource: {
+```LearningResource: {
   submitted_by: String,
   title: String,
   short_description: String,
   link: String
 }
-
+```
 Women Who Code Cincinnati Contact Information: 
 http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/women_who_code_cincinnati_information
 
-ContactInformation {
+```ContactInformation {
   links: Links
   email: String 
 }
+```
