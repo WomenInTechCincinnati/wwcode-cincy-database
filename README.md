@@ -37,7 +37,9 @@ Links {
   twitter : String,
   facebook : String,
   linkedIn : String,
-  website : String
+  website : String, 
+  github: String, 
+  meetup: String
 }
 ```
 List of Quotes:  
@@ -59,6 +61,7 @@ LearningResource: {
   title: String,
   short_description: String,
   link: String
+  topics: List<String>
 }
 ```
 Women Who Code Cincinnati Contact Information:  
