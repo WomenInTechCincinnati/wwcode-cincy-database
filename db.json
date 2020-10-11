@@ -2,7 +2,7 @@
 	"members": [{
 		"name": "Sierra",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHhwQwBzRUgOg/profile-displayphoto-shrink_200_200/0?e=1605139200&v=beta&t=DhyvX1VObCtmRHziTDmg1VsfTpEarERJiX3l3jZ0ESw",
-                "location": "Cincinnati, OH", 
+		"location": "Cincinnati, OH",
 		"favorite_techs": [
 			"Android",
 			"Flutter",
