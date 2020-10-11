@@ -28,6 +28,7 @@ http://my-json-server.typicode.com/WomenWhoCodeCincy/wwcode-cincy-database/membe
 Member {
   "name": String,
   "image_url": String,
+  "location": String,
   "favorite_techs": List<String>,
   "hobbies": List<String>,
   "links": Links
