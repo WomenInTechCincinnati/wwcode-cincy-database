@@ -32,7 +32,7 @@
 			"Trying new recipes"
 		],
 		"links": {
-			"website": "alexxmitchell.com",
+			"website": "https://alexxmitchell.com/",
 			"twitter": "https://twitter.com/_alexxmitchell",
 			"linkedIn": "https://www.linkedin.com/in/alexxmitchell/",
 			"github": "https://github.com/alexxmitchell"
@@ -202,10 +202,14 @@
 		"quote": "Don't compare yourself with others, just do what you can do.",
 		"author": "Denise Austin"
 	},
-	{
-		"submitted_by": "Erica",
+	{		"submitted_by": "Erica",
 		"quote": "The question isn't who is going to let me; it's who is going to stop me.",
 		"author": "Ayn Rand"
+  }, 
+  {
+		"submitted_by": "Bay Chairangsaris",
+		"quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+		"author": "Chinese Proverb"
 	}],
 	"learning_resources": [{
 		"submitted_by": "Sierra",
@@ -220,7 +224,15 @@
 		"short_description": "Codewars provides kata - real code challenges focused on improving skill and technique.",
 		"link": "https://www.codewars.com/",
 		"topics": ["JavaScript", "PHP", "Python"]
-	}],
+	},
+	{
+		"submitted_by": "Bay Chairangsaris",
+		"title": "FreeCodeCamp: Learn and get certificates on Web Development and Data Science (Free) ",
+		"short_description": "Learn Web Development and Data Science for free (Beginner to Advanced)",
+		"link": "https://www.freecodecamp.org/learn/",
+		"topics": ["HTML", "CSS", "JavaScript", "React", "Redux", "D3", "Node", "Express", "MongoDB", "Web Development", "Data Science" , "Data Analysis", "Python"]
+	}
+],
 	"women_who_code_cincinnati_information": {
 		"links": {
 			"twitter": "https://twitter.com/CincyWWCode"
