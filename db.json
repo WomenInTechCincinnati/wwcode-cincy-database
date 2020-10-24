@@ -72,9 +72,51 @@
 			"Puzzles"
 		],
 		"links": {
-			
-			
 			"linkedIn": "https://www.linkedin.com/in/tracichan/"
+    }
+  }, {
+		"name": "Veronica",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C5635AQE0HrkiD4H1NA/profile-framedphoto-shrink_800_800/0?e=1603645200&v=beta&t=sXfxEpGCxBZfXsazpfT-0xR0iJv67sZajsULs0fH0cg",
+		"location": "Columbus, OH",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"JavaScript",
+			"PHP",
+			"Python"
+		],
+		"hobbies": [
+			"Reading",
+			"Knitting", 
+			"Watching junky TV"
+		],
+		"links": {
+			"linkedIn": "https://www.linkedin.com/in/veronicadyejohnson614",
+			"github": "https://github.com/vdyej"
+    }
+	}, {
+		"name": "Natalie",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEWbGIWmrnDOA/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=6g69a-qIqnsIVyqTCkUeT8T1o5b0dWqUDXYgao9cpOc",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"Bootstrap",
+			"Python",
+			"Web Accessibility!"
+		],
+		"hobbies": [
+			"Going on walks",
+			"Listening to music",
+			"Spanish translation",
+			"Learning new things",
+			"Open source",
+			"Embroidery"
+		],
+		"links": {
+			"website": "http://natalieastroud.com/",
+			"twitter": "https://twitter.com/nataliecodes",
+			"linkedIn": "https://www.linkedin.com/in/natalie-a-stroud/"
 		}
 	}],
 	"quotes": [{
