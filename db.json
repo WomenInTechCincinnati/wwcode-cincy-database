@@ -57,6 +57,25 @@
 			"twitter": "https://twitter.com/emilyegans",
 			"linkedIn": "https://www.linkedin.com/in/emiegans/"
 		}
+	},{
+		"name": "Traci Chan",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C5603AQGt3cu8bDgV4A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=uQ6Uu-g3uA27AbnZ2-8GZgfrZzzq8isEsmHAVaJs-uk",
+		"location": "Independence, KY",
+		"favorite_techs": [
+			"TypeScript",
+			"Angular",
+			".NET"
+		],
+		"hobbies": [
+			"Hiking",
+			"Reading",
+			"Puzzles"
+		],
+		"links": {
+			
+			
+			"linkedIn": "https://www.linkedin.com/in/tracichan/"
+		}
 	}],
 	"quotes": [{
 		"submitted_by": "Sierra",
