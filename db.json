@@ -57,7 +57,26 @@
 			"twitter": "https://twitter.com/emilyegans",
 			"linkedIn": "https://www.linkedin.com/in/emiegans/"
 		}
-	}],
+	}, {
+
+		"name": "April",
+		"image_url": "https://www.linkedin.com/in/april-day-software-developer/",
+		"location": "Galway, Ireland",
+		"favorite_techs": [
+			"Android",
+			"mobile",
+			"Ionic",
+			"TypeScript"
+		],
+		"hobbies": [
+			"Reading",
+			"Board games", 
+			"Cooking"
+		],
+		"links": {
+			"website": "https://www.linkedin.com/in/april-day-software-developer/"
+		}
+}],
 	"quotes": [{
 		"submitted_by": "Sierra",
 		"quote": "I am big enough to admit that I am often inspired by myself.",
