@@ -145,6 +145,13 @@
 		"short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
 		"link": "https://www.androidelements.com/",
 		"topics": ["Java", "Kotlin", "Android", "Native Mobile"]
+	},
+	{
+		"submitted_by": "Veronica",
+		"title": "Codewars: Fun, free platform for honing your development skills",
+		"short_description": "Codewars provides kata - real code challenges focused on improving skill and technique.",
+		"link": "https://www.codewars.com/",
+		"topics": ["JavaScript", "PHP", "Python"]
 	}],
 	"women_who_code_cincinnati_information": {
 		"links": {
