@@ -37,7 +37,26 @@
 			"linkedIn": "https://www.linkedin.com/in/alexxmitchell/",
 			"github": "https://github.com/alexxmitchell"
 		}
-	}, {
+	},{
+		"name": "Aleksandra",
+		"image_url": "https://twitter.com/alchaone/photo",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"Python",
+			"Arduino",
+			"Assembler",
+			"C"
+		],
+		"hobbies": [
+			"Photographing",
+			"Learning new technologies",
+			"Fixing stuff"
+		],
+		"links": {
+			"twitter": "https://twitter.com/alchaone"
+		}
+	
+	},{
 		"name": "Emily",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEx90A-T2O9HA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=ajXAVVD3X26nP-ZgHvp2bcU85mtMH--xft5hD2KF-60",
 		"location": "Cincinnati, OH",
