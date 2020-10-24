@@ -118,7 +118,22 @@
 			"twitter": "https://twitter.com/nataliecodes",
 			"linkedIn": "https://www.linkedin.com/in/natalie-a-stroud/"
 		}
-	}],
+	}, {
+      "name": "Lisa Kim",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
+      "location": "Cincinnati, OH",
+      "favorite_techs": [
+        ".NET"
+      ],
+      "hobbies": [
+        "Running",
+        "Playing Violin",
+        "Knitting"
+      ],
+      "links": {
+        "linkedIn": "www.linkedin.com/in/lisankim"
+      }
+  }],
 	"quotes": [{
 		"submitted_by": "Sierra",
 		"quote": "I am big enough to admit that I am often inspired by myself.",
