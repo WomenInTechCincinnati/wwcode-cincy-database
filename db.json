@@ -173,7 +173,25 @@
       "links": {
         "linkedIn": "www.linkedin.com/in/lisankim"
       }
-  }],
+  }, {
+	"name": "Erica Handelman",
+	"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHniel8rXAvKw/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=zU3ZsRI1v_7d4PbGhbwXK6eTmZy7jeivve6EA6G_jMI",
+        "location": "Cincinnati, OH",
+	"favorite_techs": [
+		"Vue.js",
+		"AWS",
+		"GraphQL"
+	],
+	"hobbies": [
+		"Playing piano",
+		"Baking cupcakes",
+		"Shooting pool"
+	],
+	"links": {
+		"linkedIn": "https://www.linkedin.com/in/librairica/",
+		"github": "https://github.com/librairica"
+	}
+}],
 	"quotes": [{
 		"submitted_by": "Sierra",
 		"quote": "I am big enough to admit that I am often inspired by myself.",
