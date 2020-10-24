@@ -11,7 +11,7 @@
 		],
 		"hobbies": [
 			"Petting dogs",
-			"Laughing at memes", 
+			"Laughing at memes",
 			"riding bikes"
 		],
 		"links": {
@@ -37,7 +37,7 @@
 			"linkedIn": "https://www.linkedin.com/in/alexxmitchell/",
 			"github": "https://github.com/alexxmitchell"
 		}
-	},{
+	}, {
 		"name": "Aleksandra",
 		"image_url": "https://twitter.com/alchaone/photo",
 		"location": "Cincinnati, OH",
@@ -55,8 +55,8 @@
 		"links": {
 			"twitter": "https://twitter.com/alchaone"
 		}
-	
-	},{
+
+	}, {
 		"name": "Emily",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEx90A-T2O9HA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=ajXAVVD3X26nP-ZgHvp2bcU85mtMH--xft5hD2KF-60",
 		"location": "Cincinnati, OH",
@@ -76,7 +76,7 @@
 			"twitter": "https://twitter.com/emilyegans",
 			"linkedIn": "https://www.linkedin.com/in/emiegans/"
 		}
-	},{
+	}, {
 		"name": "Traci Chan",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C5603AQGt3cu8bDgV4A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=uQ6Uu-g3uA27AbnZ2-8GZgfrZzzq8isEsmHAVaJs-uk",
 		"location": "Independence, KY",
@@ -92,8 +92,8 @@
 		],
 		"links": {
 			"linkedIn": "https://www.linkedin.com/in/tracichan/"
-    }
-  }, {
+		}
+	}, {
 		"name": "Veronica",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C5635AQE0HrkiD4H1NA/profile-framedphoto-shrink_800_800/0?e=1603645200&v=beta&t=sXfxEpGCxBZfXsazpfT-0xR0iJv67sZajsULs0fH0cg",
 		"location": "Columbus, OH",
@@ -106,13 +106,13 @@
 		],
 		"hobbies": [
 			"Reading",
-			"Knitting", 
+			"Knitting",
 			"Watching junky TV"
 		],
 		"links": {
 			"linkedIn": "https://www.linkedin.com/in/veronicadyejohnson614",
 			"github": "https://github.com/vdyej"
-    }
+		}
 	}, {
 		"name": "Natalie",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEWbGIWmrnDOA/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=6g69a-qIqnsIVyqTCkUeT8T1o5b0dWqUDXYgao9cpOc",
@@ -137,7 +137,7 @@
 			"twitter": "https://twitter.com/nataliecodes",
 			"linkedIn": "https://www.linkedin.com/in/natalie-a-stroud/"
 		}
-	},{
+	}, {
 		"name": "Bay Chairangsaris",
 		"image_url": "https://bayladycoder.github.io/img/rsz_me.jpg",
 		"location": "Reisterstown, MD",
@@ -145,7 +145,7 @@
 			"HTML",
 			"CSS",
 			"Javascript",
-			"React"		
+			"React"
 		],
 		"hobbies": [
 			"Playing with cats",
@@ -159,80 +159,100 @@
 			"linkedIn": "https://www.linkedin.com/in/bayladycoder/"
 		}
 	}, {
-      "name": "Lisa Kim",
-      "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
-      "location": "Cincinnati, OH",
-      "favorite_techs": [
-        ".NET"
-      ],
-      "hobbies": [
-        "Running",
-        "Playing Violin",
-        "Knitting"
-      ],
-      "links": {
-        "linkedIn": "www.linkedin.com/in/lisankim"
-      }
-  }, {
-	"name": "Erica Handelman",
-	"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHniel8rXAvKw/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=zU3ZsRI1v_7d4PbGhbwXK6eTmZy7jeivve6EA6G_jMI",
-        "location": "Cincinnati, OH",
-	"favorite_techs": [
-		"Vue.js",
-		"AWS",
-		"GraphQL"
-	],
-	"hobbies": [
-		"Playing piano",
-		"Baking cupcakes",
-		"Shooting pool"
-	],
-	"links": {
-		"linkedIn": "https://www.linkedin.com/in/librairica/",
-		"github": "https://github.com/librairica"
-	}
-}],
-	"quotes": [{
-		"submitted_by": "Sierra",
-		"quote": "I am big enough to admit that I am often inspired by myself.",
-		"author": "Leslie Knope"
-	},
-	{
-		"submitted_by": "Veronica",
-		"quote": "Don't compare yourself with others, just do what you can do.",
-		"author": "Denise Austin"
-	},
-	{		"submitted_by": "Erica",
-		"quote": "The question isn't who is going to let me; it's who is going to stop me.",
-		"author": "Ayn Rand"
-  }, 
-  {
-		"submitted_by": "Bay Chairangsaris",
-		"quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
-		"author": "Chinese Proverb"
+		"name": "Lisa Kim",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			".NET"
+		],
+		"hobbies": [
+			"Running",
+			"Playing Violin",
+			"Knitting"
+		],
+		"links": {
+			"linkedIn": "www.linkedin.com/in/lisankim"
+		}
+	}, {
+		"name": "Erica Handelman",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHniel8rXAvKw/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=zU3ZsRI1v_7d4PbGhbwXK6eTmZy7jeivve6EA6G_jMI",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"Vue.js",
+			"AWS",
+			"GraphQL"
+		],
+		"hobbies": [
+			"Playing piano",
+			"Baking cupcakes",
+			"Shooting pool"
+		],
+		"links": {
+			"linkedIn": "https://www.linkedin.com/in/librairica/",
+			"github": "https://github.com/librairica"
+		}
+	}, {
+		"name": "April",
+		"image_url": "https://www.linkedin.com/in/april-day-software-developer/",
+		"location": "Galway, Ireland",
+		"favorite_techs": [
+			"Android",
+			"mobile",
+			"Ionic",
+			"TypeScript"
+		],
+		"hobbies": [
+			"Reading",
+			"Board games",
+			"Cooking"
+		],
+		"links": {
+			"website": "https://www.linkedin.com/in/april-day-software-developer/"
+		}
 	}],
+	"quotes": [{
+			"submitted_by": "Sierra",
+			"quote": "I am big enough to admit that I am often inspired by myself.",
+			"author": "Leslie Knope"
+		},
+		{
+			"submitted_by": "Veronica",
+			"quote": "Don't compare yourself with others, just do what you can do.",
+			"author": "Denise Austin"
+		},
+		{
+			"submitted_by": "Erica",
+			"quote": "The question isn't who is going to let me; it's who is going to stop me.",
+			"author": "Ayn Rand"
+		},
+		{
+			"submitted_by": "Bay Chairangsaris",
+			"quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+			"author": "Chinese Proverb"
+		}
+	],
 	"learning_resources": [{
-		"submitted_by": "Sierra",
-		"title": "Android Elements: A Learning Roadmap for Android Developers",
-		"short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
-		"link": "https://www.androidelements.com/",
-		"topics": ["Java", "Kotlin", "Android", "Native Mobile"]
-	},
-	{
-		"submitted_by": "Veronica",
-		"title": "Codewars: Fun, free platform for honing your development skills",
-		"short_description": "Codewars provides kata - real code challenges focused on improving skill and technique.",
-		"link": "https://www.codewars.com/",
-		"topics": ["JavaScript", "PHP", "Python"]
-	},
-	{
-		"submitted_by": "Bay Chairangsaris",
-		"title": "FreeCodeCamp: Learn and get certificates on Web Development and Data Science (Free) ",
-		"short_description": "Learn Web Development and Data Science for free (Beginner to Advanced)",
-		"link": "https://www.freecodecamp.org/learn/",
-		"topics": ["HTML", "CSS", "JavaScript", "React", "Redux", "D3", "Node", "Express", "MongoDB", "Web Development", "Data Science" , "Data Analysis", "Python"]
-	}
-],
+			"submitted_by": "Sierra",
+			"title": "Android Elements: A Learning Roadmap for Android Developers",
+			"short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
+			"link": "https://www.androidelements.com/",
+			"topics": ["Java", "Kotlin", "Android", "Native Mobile"]
+		},
+		{
+			"submitted_by": "Veronica",
+			"title": "Codewars: Fun, free platform for honing your development skills",
+			"short_description": "Codewars provides kata - real code challenges focused on improving skill and technique.",
+			"link": "https://www.codewars.com/",
+			"topics": ["JavaScript", "PHP", "Python"]
+		},
+		{
+			"submitted_by": "Bay Chairangsaris",
+			"title": "FreeCodeCamp: Learn and get certificates on Web Development and Data Science (Free) ",
+			"short_description": "Learn Web Development and Data Science for free (Beginner to Advanced)",
+			"link": "https://www.freecodecamp.org/learn/",
+			"topics": ["HTML", "CSS", "JavaScript", "React", "Redux", "D3", "Node", "Express", "MongoDB", "Web Development", "Data Science", "Data Analysis", "Python"]
+		}
+	],
 	"women_who_code_cincinnati_information": {
 		"links": {
 			"twitter": "https://twitter.com/CincyWWCode"
