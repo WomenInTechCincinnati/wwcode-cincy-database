@@ -210,6 +210,26 @@
 			"Cooking"
 		],
 		"links": {
+			"linkedIn": "https://www.linkedin.com/in/sandi-ritter/"
+		}
+	}, {
+		"name": "Sandi",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFPrE0A4G4XEw/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=usKiOyZkqP1y1zryOqBWAa40apl8B-SzyAER07h-QpE",
+		"location": "Bellevue, KY",
+		"favorite_techs": [
+			".NET",
+			"go",
+			"AWS",
+			"Flutter"
+		],
+		"hobbies": [
+			"Playing drums",
+			"Exercise (I'm on Orange Theory addict)",
+			"Sampling new beers",
+			"Enjoying time with friends",
+			"Herding my cats"
+		],
+		"links": {
 			"website": "https://www.linkedin.com/in/april-day-software-developer/"
 		}
 	}],
@@ -232,6 +252,16 @@
 			"submitted_by": "Bay Chairangsaris",
 			"quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
 			"author": "Chinese Proverb"
+		},
+		{
+			"submitted_by": "Sandi",
+			"quote": "Fight for the things that you care about, but do it in a way that will lead others to join you.",
+			"author": "Ruth Bader Ginsberg"
+		},
+		{
+			"submitted_by": "Sandi",
+			"quote": "I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass.",
+			"author": "Maya Angelou"
 		}
 	],
 	"learning_resources": [{
