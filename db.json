@@ -57,6 +57,30 @@
 			"twitter": "https://twitter.com/emilyegans",
 			"linkedIn": "https://www.linkedin.com/in/emiegans/"
 		}
+	}, {
+		"name": "Natalie",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEWbGIWmrnDOA/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=6g69a-qIqnsIVyqTCkUeT8T1o5b0dWqUDXYgao9cpOc",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"Bootstrap",
+			"Python",
+			"Web Accessibility!"
+		],
+		"hobbies": [
+			"Going on walks",
+			"Listening to music",
+			"Spanish translation",
+			"Learning new things",
+			"Open source",
+			"Embroidery"
+		],
+		"links": {
+			"website": "http://natalieastroud.com/",
+			"twitter": "https://twitter.com/nataliecodes",
+			"linkedIn": "https://www.linkedin.com/in/natalie-a-stroud/"
+		}
 	}],
 	"quotes": [{
 		"submitted_by": "Sierra",
