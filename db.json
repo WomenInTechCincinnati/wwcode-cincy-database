@@ -15,7 +15,10 @@
 			"riding bikes"
 		],
 		"links": {
-			"website": "https://canibeadeveloper.com/"
+			"website": "https://canibeadeveloper.com/", 
+			"twitter": "https://twitter.com/_sierraobryan",
+			"linkedIn": "https://www.linkedin.com/in/sierraobryan/",
+			"github": "https://github.com/sierraobryan"
 		}
 	}, {
 		"name": "Alexx",
