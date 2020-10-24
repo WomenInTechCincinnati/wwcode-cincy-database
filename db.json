@@ -118,6 +118,27 @@
 			"twitter": "https://twitter.com/nataliecodes",
 			"linkedIn": "https://www.linkedin.com/in/natalie-a-stroud/"
 		}
+	},{
+		"name": "Bay Chairangsaris",
+		"image_url": "https://bayladycoder.github.io/img/rsz_me.jpg",
+		"location": "Reisterstown, MD",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"React"		
+		],
+		"hobbies": [
+			"Playing with cats",
+			"Attending meetups/events",
+			"Practicing Guitar/Piano",
+			"Singing"
+		],
+		"links": {
+			"website": "https://bayladycoder.github.io/",
+			"github": "https://github.com/BayLadyCoder",
+			"linkedIn": "https://www.linkedin.com/in/bayladycoder/"
+		}
 	}, {
       "name": "Lisa Kim",
       "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
