@@ -1,67 +1,124 @@
 {
-  "members": [
-    {
-      "name": "Sierra",
-      "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHhwQwBzRUgOg/profile-displayphoto-shrink_200_200/0?e=1605139200&v=beta&t=DhyvX1VObCtmRHziTDmg1VsfTpEarERJiX3l3jZ0ESw",
-      "location": "Cincinnati, OH",
-      "favorite_techs": [
-        "Android",
-        "Flutter",
-        "iOS",
-        "mobile"
-      ],
-      "hobbies": [
-        "Petting dogs",
-        "Laughing at memes",
-        "riding bikes"
-      ],
-      "links": {
-        "website": "https://canibeadeveloper.com/"
-      }
-    },
-    {
-      "name": "Alexx",
-      "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQG2ovoU8evzfw/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=UqbSUiOeiI89zJ7ZRZIMB-eC5r6dPyk-Mcpverd-Lnw",
-      "location": "Cincinnati, OH",
-      "favorite_techs": [
-        "JavaScript",
-        "React",
-        "Kotlin",
-        "CSS"
-      ],
-      "hobbies": [
-        "Running/Walking",
-        "Trying new recipes"
-      ],
-      "links": {
-        "website": "alexxmitchell.com",
-        "twitter": "https://twitter.com/_alexxmitchell",
-        "linkedIn": "https://www.linkedin.com/in/alexxmitchell/",
-        "github": "https://github.com/alexxmitchell"
-      }
-    },
-    {
-      "name": "Emily",
-      "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEx90A-T2O9HA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=ajXAVVD3X26nP-ZgHvp2bcU85mtMH--xft5hD2KF-60",
-      "location": "Cincinnati, OH",
-      "favorite_techs": [
-        "TypeScript",
-        "Angular",
-        "SCSS",
-        ".NET"
-      ],
-      "hobbies": [
-        "Photography",
-        "Weightlifting",
-        "Throwing soup"
-      ],
-      "links": {
-        "website": "http://emeganphoto.com",
-        "twitter": "https://twitter.com/emilyegans",
-        "linkedIn": "https://www.linkedin.com/in/emiegans/"
-      }
-    },
-    {
+	"members": [{
+		"name": "Sierra",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHhwQwBzRUgOg/profile-displayphoto-shrink_200_200/0?e=1605139200&v=beta&t=DhyvX1VObCtmRHziTDmg1VsfTpEarERJiX3l3jZ0ESw",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"Android",
+			"Flutter",
+			"iOS",
+			"mobile"
+		],
+		"hobbies": [
+			"Petting dogs",
+			"Laughing at memes", 
+			"riding bikes"
+		],
+		"links": {
+			"website": "https://canibeadeveloper.com/"
+		}
+	}, {
+		"name": "Alexx",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQG2ovoU8evzfw/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=UqbSUiOeiI89zJ7ZRZIMB-eC5r6dPyk-Mcpverd-Lnw",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"JavaScript",
+			"React",
+			"Kotlin",
+			"CSS"
+		],
+		"hobbies": [
+			"Running/Walking",
+			"Trying new recipes"
+		],
+		"links": {
+			"website": "alexxmitchell.com",
+			"twitter": "https://twitter.com/_alexxmitchell",
+			"linkedIn": "https://www.linkedin.com/in/alexxmitchell/",
+			"github": "https://github.com/alexxmitchell"
+		}
+	}, {
+		"name": "Emily",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEx90A-T2O9HA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=ajXAVVD3X26nP-ZgHvp2bcU85mtMH--xft5hD2KF-60",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"TypeScript",
+			"Angular",
+			"SCSS",
+			".NET"
+		],
+		"hobbies": [
+			"Photography",
+			"Weightlifting",
+			"Throwing soup"
+		],
+		"links": {
+			"website": "http://emeganphoto.com",
+			"twitter": "https://twitter.com/emilyegans",
+			"linkedIn": "https://www.linkedin.com/in/emiegans/"
+		}
+	},{
+		"name": "Traci Chan",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C5603AQGt3cu8bDgV4A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=uQ6Uu-g3uA27AbnZ2-8GZgfrZzzq8isEsmHAVaJs-uk",
+		"location": "Independence, KY",
+		"favorite_techs": [
+			"TypeScript",
+			"Angular",
+			".NET"
+		],
+		"hobbies": [
+			"Hiking",
+			"Reading",
+			"Puzzles"
+		],
+		"links": {
+			"linkedIn": "https://www.linkedin.com/in/tracichan/"
+    }
+  }, {
+		"name": "Veronica",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C5635AQE0HrkiD4H1NA/profile-framedphoto-shrink_800_800/0?e=1603645200&v=beta&t=sXfxEpGCxBZfXsazpfT-0xR0iJv67sZajsULs0fH0cg",
+		"location": "Columbus, OH",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"JavaScript",
+			"PHP",
+			"Python"
+		],
+		"hobbies": [
+			"Reading",
+			"Knitting", 
+			"Watching junky TV"
+		],
+		"links": {
+			"linkedIn": "https://www.linkedin.com/in/veronicadyejohnson614",
+			"github": "https://github.com/vdyej"
+    }
+	}, {
+		"name": "Natalie",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEWbGIWmrnDOA/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=6g69a-qIqnsIVyqTCkUeT8T1o5b0dWqUDXYgao9cpOc",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"Bootstrap",
+			"Python",
+			"Web Accessibility!"
+		],
+		"hobbies": [
+			"Going on walks",
+			"Listening to music",
+			"Spanish translation",
+			"Learning new things",
+			"Open source",
+			"Embroidery"
+		],
+		"links": {
+			"website": "http://natalieastroud.com/",
+			"twitter": "https://twitter.com/nataliecodes",
+			"linkedIn": "https://www.linkedin.com/in/natalie-a-stroud/"
+		}
+	}, {
       "name": "Lisa Kim",
       "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
       "location": "Cincinnati, OH",
@@ -76,30 +133,23 @@
       "links": {
         "linkedIn": "www.linkedin.com/in/lisankim"
       }
-    }
-
-  ],
-  "quotes": [
-    {
-      "submitted_by": "Sierra",
-      "quote": "I am big enough to admit that I am often inspired by myself.",
-      "author": "Leslie Knope"
-    }
-  ],
-  "learning_resources": [
-    {
-      "submitted_by": "Sierra",
-      "title": "Android Elements: A Learning Roadmap for Android Developers",
-      "short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
-      "link": "https://www.androidelements.com/",
-      "topics": [ "Java", "Kotlin", "Android", "Native Mobile" ]
-    }
-  ],
-  "women_who_code_cincinnati_information": {
-    "links": {
-      "twitter": "https://twitter.com/CincyWWCode"
-    },
-    "email": "cincinnati@womenwhocode.com"
-  }
-
-} }
+  }],
+	"quotes": [{
+		"submitted_by": "Sierra",
+		"quote": "I am big enough to admit that I am often inspired by myself.",
+		"author": "Leslie Knope"
+	}],
+	"learning_resources": [{
+		"submitted_by": "Sierra",
+		"title": "Android Elements: A Learning Roadmap for Android Developers",
+		"short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
+		"link": "https://www.androidelements.com/",
+		"topics": ["Java", "Kotlin", "Android", "Native Mobile"]
+	}],
+	"women_who_code_cincinnati_information": {
+		"links": {
+			"twitter": "https://twitter.com/CincyWWCode"
+		},
+		"email": "cincinnati@womenwhocode.com"
+	}
+}
