@@ -58,6 +58,23 @@
 			"linkedIn": "https://www.linkedin.com/in/emiegans/"
 		}
 	},{
+		"name": "Traci Chan",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C5603AQGt3cu8bDgV4A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=uQ6Uu-g3uA27AbnZ2-8GZgfrZzzq8isEsmHAVaJs-uk",
+		"location": "Independence, KY",
+		"favorite_techs": [
+			"TypeScript",
+			"Angular",
+			".NET"
+		],
+		"hobbies": [
+			"Hiking",
+			"Reading",
+			"Puzzles"
+		],
+		"links": {
+			"linkedIn": "https://www.linkedin.com/in/tracichan/"
+    }
+  }, {
 		"name": "Veronica",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C5635AQE0HrkiD4H1NA/profile-framedphoto-shrink_800_800/0?e=1603645200&v=beta&t=sXfxEpGCxBZfXsazpfT-0xR0iJv67sZajsULs0fH0cg",
 		"location": "Columbus, OH",
@@ -122,7 +139,22 @@
 			"github": "https://github.com/BayLadyCoder",
 			"linkedIn": "https://www.linkedin.com/in/bayladycoder/"
 		}
-	}],
+	}, {
+      "name": "Lisa Kim",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
+      "location": "Cincinnati, OH",
+      "favorite_techs": [
+        ".NET"
+      ],
+      "hobbies": [
+        "Running",
+        "Playing Violin",
+        "Knitting"
+      ],
+      "links": {
+        "linkedIn": "www.linkedin.com/in/lisankim"
+      }
+  }],
 	"quotes": [{
 		"submitted_by": "Sierra",
 		"quote": "I am big enough to admit that I am often inspired by myself.",
@@ -134,6 +166,13 @@
 		"short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
 		"link": "https://www.androidelements.com/",
 		"topics": ["Java", "Kotlin", "Android", "Native Mobile"]
+	},
+	{
+		"submitted_by": "Veronica",
+		"title": "Codewars: Fun, free platform for honing your development skills",
+		"short_description": "Codewars provides kata - real code challenges focused on improving skill and technique.",
+		"link": "https://www.codewars.com/",
+		"topics": ["JavaScript", "PHP", "Python"]
 	}],
 	"women_who_code_cincinnati_information": {
 		"links": {
