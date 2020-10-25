@@ -212,6 +212,27 @@
 		"links": {
 			"website": "https://www.linkedin.com/in/april-day-software-developer/"
 		}
+	},
+	{
+		"name": "LeeAnne",
+		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQGWR_h4xoybVQ/profile-displayphoto-shrink_400_400/0?e=1609372800&v=beta&t=pMx7aahHKyiET6atGf5Lyco6RHx2H7l6AzuBmhdJNyk",
+		"location": "Cincinnati, OH",
+		"favorite_techs": [
+			"HTML",
+			"CSS",
+			"JavaScript"
+		],
+		"hobbies": [
+			"Singing",
+			"Practicing Piano",
+			"Running/Walking",
+			"Reading"
+		],
+		"links": {
+			"twitter": "https://twitter.com/galiotoweb",
+			"linkedIn": "https://www.linkedin.com/in/leeannegalioto/",
+			"github": "https://github.com/galiotoweb/"
+		}
 	}, {
 		"name": "Sandi",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFPrE0A4G4XEw/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=usKiOyZkqP1y1zryOqBWAa40apl8B-SzyAER07h-QpE",
