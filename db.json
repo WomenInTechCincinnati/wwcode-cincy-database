@@ -283,8 +283,12 @@
 			"submitted_by": "Sandi",
 			"quote": "I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass.",
 			"author": "Maya Angelou"
-		}
-	],
+		}, 
+    {
+		  "submitted_by": "Traci",
+		  "quote": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+		  "author": "Winnie the Pooh by A. A. Milne"
+  }],
 	"learning_resources": [{
 			"submitted_by": "Sierra",
 			"title": "Android Elements: A Learning Roadmap for Android Developers",
