@@ -309,7 +309,8 @@
 	],
 	"women_who_code_cincinnati_information": {
 		"links": {
-			"twitter": "https://twitter.com/CincyWWCode"
+			"twitter": "https://twitter.com/CincyWWCode",
+			"meetup": "https://www.meetup.com/Women-Who-Code-Cincinnati/"
 		},
 		"email": "cincinnati@womenwhocode.com"
 	}
