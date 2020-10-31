@@ -334,6 +334,13 @@
 		"topics": [
 			"CSS"
 		]
+	},
+	{
+		"submitted_by": "Aleksandra",
+		"title": "Program Arcade Games With Python",
+		"short_description": "Absorbing way to learn Python. A lot of fun with building games.",
+		"link": "http://programarcadegames.com/",
+		"topics": ["Python"]
 	}
 ],
 	"women_who_code_cincinnati_information": {
