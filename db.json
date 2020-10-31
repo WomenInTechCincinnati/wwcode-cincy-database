@@ -3,17 +3,8 @@
 		"name": "Sierra",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHhwQwBzRUgOg/profile-displayphoto-shrink_200_200/0?e=1605139200&v=beta&t=DhyvX1VObCtmRHziTDmg1VsfTpEarERJiX3l3jZ0ESw",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"Android",
-			"Flutter",
-			"iOS",
-			"mobile"
-		],
-		"hobbies": [
-			"Petting dogs",
-			"Laughing at memes",
-			"riding bikes"
-		],
+		"favorite_techs": ["Android", "Flutter", "iOS", "mobile"],
+		"hobbies": ["Petting dogs", "Laughing at memes", "riding bikes"],
 		"links": {
 			"website": "https://canibeadeveloper.com/", 
 			"twitter": "https://twitter.com/_sierraobryan",
@@ -24,16 +15,8 @@
 		"name": "Alexx",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQG2ovoU8evzfw/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=UqbSUiOeiI89zJ7ZRZIMB-eC5r6dPyk-Mcpverd-Lnw",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"JavaScript",
-			"React",
-			"Kotlin",
-			"CSS"
-		],
-		"hobbies": [
-			"Running/Walking",
-			"Trying new recipes"
-		],
+		"favorite_techs": ["JavaScript", "React", "Kotlin", "CSS"],
+		"hobbies": ["Running/Walking", "Trying new recipes"],
 		"links": {
 			"website": "https://alexxmitchell.com/",
 			"twitter": "https://twitter.com/_alexxmitchell",
@@ -44,36 +27,17 @@
 		"name": "Aleksandra",
 		"image_url": "https://pbs.twimg.com/profile_images/1320073028936585222/F4VMI0h6_400x400.jpg",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"Python",
-			"Arduino",
-			"Assembler",
-			"C"
-		],
-		"hobbies": [
-			"Photographing",
-			"Learning new technologies",
-			"Fixing stuff"
-		],
+		"favorite_techs": ["Python", "Arduino", "Assembler", "C"],
+		"hobbies": ["Photographing", "Learning new technologies", "Fixing stuff"],
 		"links": {
 			"twitter": "https://twitter.com/alchaone"
 		}
-
 	}, {
 		"name": "Emily",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEx90A-T2O9HA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=ajXAVVD3X26nP-ZgHvp2bcU85mtMH--xft5hD2KF-60",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"TypeScript",
-			"Angular",
-			"SCSS",
-			".NET"
-		],
-		"hobbies": [
-			"Photography",
-			"Weightlifting",
-			"Throwing soup"
-		],
+		"favorite_techs": ["TypeScript", "Angular", "SCSS", ".NET"],
+		"hobbies": ["Photography", "Weightlifting", "Throwing soup"],
 		"links": {
 			"website": "http://emeganphoto.com",
 			"twitter": "https://twitter.com/emilyegans",
@@ -83,16 +47,8 @@
 		"name": "Traci Chan",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C5603AQGt3cu8bDgV4A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=uQ6Uu-g3uA27AbnZ2-8GZgfrZzzq8isEsmHAVaJs-uk",
 		"location": "Independence, KY",
-		"favorite_techs": [
-			"TypeScript",
-			"Angular",
-			".NET"
-		],
-		"hobbies": [
-			"Hiking",
-			"Reading",
-			"Puzzles"
-		],
+		"favorite_techs": ["TypeScript", "Angular", ".NET"],
+		"hobbies": ["Hiking", "Reading", "Puzzles"],
 		"links": {
 			"linkedIn": "https://www.linkedin.com/in/tracichan/"
 		}
@@ -100,18 +56,8 @@
 		"name": "Veronica",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C5635AQE0HrkiD4H1NA/profile-framedphoto-shrink_800_800/0?e=1603645200&v=beta&t=sXfxEpGCxBZfXsazpfT-0xR0iJv67sZajsULs0fH0cg",
 		"location": "Columbus, OH",
-		"favorite_techs": [
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"PHP",
-			"Python"
-		],
-		"hobbies": [
-			"Reading",
-			"Knitting",
-			"Watching junky TV"
-		],
+		"favorite_techs": ["HTML", "CSS", "JavaScript", "PHP", "Python"],
+		"hobbies": ["Reading", "Knitting", "Watching junky TV"],
 		"links": {
 			"linkedIn": "https://www.linkedin.com/in/veronicadyejohnson614",
 			"github": "https://github.com/vdyej"
@@ -120,21 +66,8 @@
 		"name": "Natalie",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEWbGIWmrnDOA/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=6g69a-qIqnsIVyqTCkUeT8T1o5b0dWqUDXYgao9cpOc",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"HTML",
-			"CSS",
-			"Bootstrap",
-			"Python",
-			"Web Accessibility!"
-		],
-		"hobbies": [
-			"Going on walks",
-			"Listening to music",
-			"Spanish translation",
-			"Learning new things",
-			"Open source",
-			"Embroidery"
-		],
+		"favorite_techs": ["HTML", "CSS", "Bootstrap", "Python", "Web Accessibility!"],
+		"hobbies": ["Going on walks", "Listening to music", "Spanish translation", "Learning new things", "Open source", "Embroidery"],
 		"links": {
 			"website": "http://natalieastroud.com/",
 			"twitter": "https://twitter.com/nataliecodes",
@@ -144,18 +77,8 @@
 		"name": "Bay Chairangsaris",
 		"image_url": "https://bayladycoder.github.io/img/rsz_me.jpg",
 		"location": "Reisterstown, MD",
-		"favorite_techs": [
-			"HTML",
-			"CSS",
-			"Javascript",
-			"React"
-		],
-		"hobbies": [
-			"Playing with cats",
-			"Attending meetups/events",
-			"Practicing Guitar/Piano",
-			"Singing"
-		],
+		"favorite_techs": ["HTML", "CSS", "Javascript", "React"],
+		"hobbies": ["Playing with cats", "Attending meetups/events", "Practicing Guitar/Piano", "Singing"],
 		"links": {
 			"website": "https://bayladycoder.github.io/",
 			"github": "https://github.com/BayLadyCoder",
@@ -165,14 +88,8 @@
 		"name": "Lisa Kim",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFO6ckyiw_95A/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=wxnHmX1f0uQZKXgHlnvFVg5uABBzgpPhMksEzI5upZs",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			".NET"
-		],
-		"hobbies": [
-			"Running",
-			"Playing Violin",
-			"Knitting"
-		],
+		"favorite_techs": [".NET"],
+		"hobbies": ["Running", "Playing Violin", "Knitting"],
 		"links": {
 			"linkedIn": "www.linkedin.com/in/lisankim"
 		}
@@ -180,16 +97,8 @@
 		"name": "Erica Handelman",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHniel8rXAvKw/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=zU3ZsRI1v_7d4PbGhbwXK6eTmZy7jeivve6EA6G_jMI",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"Vue.js",
-			"AWS",
-			"GraphQL"
-		],
-		"hobbies": [
-			"Playing piano",
-			"Baking cupcakes",
-			"Shooting pool"
-		],
+		"favorite_techs": ["Vue.js", "AWS", "GraphQL"],
+		"hobbies": ["Playing piano", "Baking cupcakes", "Shooting pool"],
 		"links": {
 			"linkedIn": "https://www.linkedin.com/in/librairica/",
 			"github": "https://github.com/librairica"
@@ -198,36 +107,17 @@
 		"name": "April",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQGe2Cm20CNJmQ/profile-displayphoto-shrink_800_800/0?e=1608768000&v=beta&t=A2MhupK3vgkLuP3ZXuA8FagLofESrhTcw88BR6j7J20",
 		"location": "Galway, Ireland",
-		"favorite_techs": [
-			"Android",
-			"mobile",
-			"Ionic",
-			"TypeScript"
-		],
-		"hobbies": [
-			"Reading",
-			"Board games",
-			"Cooking"
-		],
+		"favorite_techs": ["Android", "mobile", "Ionic", "TypeScript"],
+		"hobbies": ["Reading", "Board games", "Cooking"],
 		"links": {
 			"website": "https://www.linkedin.com/in/april-day-software-developer/"
 		}
-	},
-	{
+	}, {
 		"name": "LeeAnne",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQGWR_h4xoybVQ/profile-displayphoto-shrink_400_400/0?e=1609372800&v=beta&t=pMx7aahHKyiET6atGf5Lyco6RHx2H7l6AzuBmhdJNyk",
 		"location": "Cincinnati, OH",
-		"favorite_techs": [
-			"HTML",
-			"CSS",
-			"JavaScript"
-		],
-		"hobbies": [
-			"Singing",
-			"Practicing Piano",
-			"Running/Walking",
-			"Reading"
-		],
+		"favorite_techs": ["HTML", "CSS", "JavaScript"],
+		"hobbies": ["Singing", "Practicing Piano", "Running/Walking", "Reading"],
 		"links": {
 			"twitter": "https://twitter.com/galiotoweb",
 			"linkedIn": "https://www.linkedin.com/in/leeannegalioto/",
@@ -237,19 +127,8 @@
 		"name": "Sandi",
 		"image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFPrE0A4G4XEw/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=usKiOyZkqP1y1zryOqBWAa40apl8B-SzyAER07h-QpE",
 		"location": "Bellevue, KY",
-		"favorite_techs": [
-			".NET",
-			"go",
-			"AWS",
-			"Flutter"
-		],
-		"hobbies": [
-			"Playing drums",
-			"Exercise (I'm on Orange Theory addict)",
-			"Sampling new beers",
-			"Enjoying time with friends",
-			"Herding my cats"
-		],
+		"favorite_techs": [".NET", "go", "AWS", "Flutter"],
+		"hobbies": ["Playing drums", "Exercise (I'm on Orange Theory addict)", "Sampling new beers", "Enjoying time with friends", "Herding my cats"],
 		"links": {
 			"linkedIn": "https://www.linkedin.com/in/sandi-ritter/"
 		}
@@ -258,33 +137,27 @@
 			"submitted_by": "Sierra",
 			"quote": "I am big enough to admit that I am often inspired by myself.",
 			"author": "Leslie Knope"
-		},
-		{
+		}, {
 			"submitted_by": "Veronica",
 			"quote": "Don't compare yourself with others, just do what you can do.",
 			"author": "Denise Austin"
-		},
-		{
+		}, {
 			"submitted_by": "Erica",
 			"quote": "The question isn't who is going to let me; it's who is going to stop me.",
 			"author": "Ayn Rand"
-		},
-		{
+		}, {
 			"submitted_by": "Bay Chairangsaris",
 			"quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
 			"author": "Chinese Proverb"
-		},
-		{
+		}, {
 			"submitted_by": "Sandi",
 			"quote": "Fight for the things that you care about, but do it in a way that will lead others to join you.",
 			"author": "Ruth Bader Ginsberg"
-		},
-		{
+		}, {
 			"submitted_by": "Sandi",
 			"quote": "I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass.",
 			"author": "Maya Angelou"
-		}, 
-    {
+		}, {
 		  "submitted_by": "Traci",
 		  "quote": "You are braver than you believe, stronger than you seem, and smarter than you think.",
 		  "author": "Winnie the Pooh by A. A. Milne"
@@ -295,47 +168,37 @@
 			"short_description": "A learning roadmap for Android developers: everything you need to learn, in a recommended step-by-step order.",
 			"link": "https://www.androidelements.com/",
 			"topics": ["Java", "Kotlin", "Android", "Native Mobile"]
-		},
-		{
+		}, {
 			"submitted_by": "Veronica",
 			"title": "Codewars: Fun, free platform for honing your development skills",
 			"short_description": "Codewars provides kata - real code challenges focused on improving skill and technique.",
 			"link": "https://www.codewars.com/",
 			"topics": ["JavaScript", "PHP", "Python"]
-		},
-		{
+		}, {
 			"submitted_by": "Bay Chairangsaris",
 			"title": "FreeCodeCamp: Learn and get certificates on Web Development and Data Science (Free) ",
 			"short_description": "Learn Web Development and Data Science for free (Beginner to Advanced)",
 			"link": "https://www.freecodecamp.org/learn/",
 			"topics": ["HTML", "CSS", "JavaScript", "React", "Redux", "D3", "Node", "Express", "MongoDB", "Web Development", "Data Science", "Data Analysis", "Python"]
-		}, 
-    {
+		}, {
 		  "submitted_by": "Traci",
 		  "title": "W3Schools.com",
 		  "short_description": "W3Schools is an educational website for learning web technologies online with tutorials and references.",
 		  "link": "https://www.w3schools.com/",
 		  "topics": ["Java", "Javascript", "Python", "HTML","C++", "C#"]
-	},
-	{
+	}, {
 		"submitted_by": "LeeAnne",
 		"title": "Flexbox Zombies",
 		"short_description": "Learn or strengthen your CSS Flexbox skills while playing a free game killing zombies.",
 		"link": "https://geddski.teachable.com/p/flexbox-zombies",
-		"topics": [
-			"CSS"
-		]
-	},
-	{
+		"topics": ["CSS"]
+	}, {
 		"submitted_by": "LeeAnne",
 		"title": "Grid Garden",
 		"short_description": "Water the carrots and kill the weeds while you learn CSS grid in a free game.",
 		"link": "https://cssgridgarden.com/",
-		"topics": [
-			"CSS"
-		]
-	}
-],
+		"topics": ["CSS"]
+	}],
 	"women_who_code_cincinnati_information": {
 		"links": {
 			"twitter": "https://twitter.com/CincyWWCode",
